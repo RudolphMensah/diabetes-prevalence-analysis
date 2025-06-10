@@ -1,0 +1,7 @@
+Country,Diabetes_Prevalence_2011,Diabetes_Prevalence_2024,Diabetes_Prevalence_2050,Undiagnosed_Percent,Mortality_DM,Obesity_Percent,Inactivity_Percent,Hypertension_Percent,Urbanization_Percent,GDP_per_capita_USD,Diabetes_Change_2011_2024
+"Ghana,",5,2.7,3.4,78.7,1.5,NA,NA,NA,NA,NA,-2.3
+Nigeria,4.8,3,3.3,78.7,3.1,14.5,30,38.1,52,2500,-1.7999999999999998
+South Africa,7,7.2,8.6,70.3,5.4,28.3,35.2,37.8,68.5,5600,0.20000000000000018
+Kenya,5.1,3.1,3.4,53.6,3.4,7.8,27,25.9,29.8,1900,-1.9999999999999996
+Ethiopia,3.4,4.4,5.3,76.4,3.1,5.5,19,25,22,1000,1.0000000000000004
+UAE,18.8,20.7,22.7,64,10.9,27.8,38,35,88.5,43000,1.8999999999999986
